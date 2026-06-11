@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventureGraphQL.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aa41dc7d4018d6c955de0424c3c94557b4031b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7926cab5073feee1a2730dc686c21c1ede1eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventureGraphQL.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventureGraphQL.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
